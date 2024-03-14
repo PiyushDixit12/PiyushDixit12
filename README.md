@@ -1,71 +1,63 @@
-# Hi there, I'm [Your Name]! 👋
+![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
 
-I'm a passionate Frontend Developer with expertise in building responsive and user-friendly web applications. I enjoy turning ideas into code and crafting delightful user experiences. Constantly learning and exploring new technologies to stay up-to-date with the latest trends in web development.
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
 
-## Skills
+<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 
-### HTML
+### 👨🏻‍💻 &nbsp;About Me
 
-![HTML](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png)
+💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-HTML (HyperText Markup Language) is the backbone of web development, used for creating the structure of web pages.
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### CSS
+### 🛠 &nbsp;Tech Stack
 
-![CSS](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png)
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)\
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
 
-CSS (Cascading Style Sheets) is essential for styling web pages, making them visually appealing and responsive across devices.
+### ⚙️ &nbsp;GitHub Analytics
 
-### JavaScript
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-![JavaScript](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_js_official_icon_130509.png)
+### 🤝🏻 &nbsp;Connect with Me
 
-JavaScript is a versatile programming language that enables dynamic and interactive web content.
-
-### Bootstrap
-
-![Bootstrap](https://cdn.icon-icons.com/icons2/2108/PNG/512/bootstrap_icon_130668.png)
-
-Bootstrap is a popular CSS framework that simplifies the process of building responsive and mobile-first websites.
-
-### React
-
-![React](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_reactjs_icon_130205.png)
-
-React is a JavaScript library for building user interfaces, known for its component-based architecture and virtual DOM.
-
-### Redux
-
-![Redux](https://redux.js.org/img/redux.svg)
-
-Redux is a predictable state container for JavaScript apps, commonly used with React for managing application state.
-
-### Git
-
-![Git](https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png)
-
-Git is a version control system that enables collaborative development and efficient management of code repositories.
-
-## Connect with Me
-
-Feel free to reach out if you have any questions, suggestions, or just want to chat!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Your_Linkedin_Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourlinkedinprofile/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Your_Portfolio_Website-brightgreen)](https://www.yourportfoliowebsite.com/)
-[![Twitter](https://img.shields.io/badge/Twitter-Your_Twitter_Handle-blue?style=flat&logo=twitter)](https://twitter.com/yourtwitterhandle)
-
-
-<!--
-**PiyushDixit12/PiyushDixit12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/adityavs_"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a>
+<a href="https://www.behance.net/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1769FF?style=flat&logo=Behance&logoColor=white"/></a>
+</p>
