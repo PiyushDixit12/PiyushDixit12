@@ -10,7 +10,7 @@
 🌱 &nbsp;I'm on track for learning more about Web Development.\
 ✍️ &nbsp;In my free time, I pursue to listen Music & playing games .\
 💬 &nbsp;Feel free to reach out to me for Hiring me or another works.\
-📄 &nbsp;Please have a look at my [portfolio](https://piyush-dixit2.netlify.app) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [portfolio](https://piyush-dixit-dummy.netlify.app) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
